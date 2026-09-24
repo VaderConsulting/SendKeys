@@ -22,7 +22,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/SendKeys`.
+Working copy from my Historical Dev folder `VB/SendKeys`.
 Company names in `.vbp` files: Freelance.
 `VbSendKeys` author credit in source: Bryan Wolf, 1999.
 
